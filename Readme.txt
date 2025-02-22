@@ -1,5 +1,5 @@
 How to run the Bank Locker Management System (BLMS) Project
-
+** Download the xampp server using this link  (https://www.apachefriends.org/download.html)**
 1. Download the zip file
 
 2. Extract the file and copy blms folder
